@@ -2133,9 +2133,9 @@ It has a reduced top mask to make it harder to install upside-down.</description
 <parts>
 <part name="FRAME1" library="frames" deviceset="TABL_L" device=""/>
 <part name="U1" library="SparkFun-DigitalIC" deviceset="ATTINY45" device="TINY85-20-DIP" value="TINY85-20-DIP"/>
-<part name="R2" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="1k"/>
+<part name="R2" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="10Ω"/>
 <part name="D2" library="LED" deviceset="LED" device="5MM"/>
-<part name="R3" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="1k"/>
+<part name="R3" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="10Ω"/>
 <part name="D3" library="LED" deviceset="LED" device="5MM"/>
 <part name="R17" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="1M"/>
 <part name="R18" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="1M"/>
