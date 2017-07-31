@@ -2137,8 +2137,8 @@ It has a reduced top mask to make it harder to install upside-down.</description
 <part name="D2" library="LED" deviceset="LED" device="5MM"/>
 <part name="R3" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="10Ω"/>
 <part name="D3" library="LED" deviceset="LED" device="5MM"/>
-<part name="R17" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="1M"/>
-<part name="R18" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="1M"/>
+<part name="R17" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="1MΩ"/>
+<part name="R18" library="SparkFun-Resistors" deviceset="1KOHM-1/4W-5%(PTH)" device="" value="1MΩ"/>
 <part name="BAT1" library="adafruit-john modded" deviceset="CR2032" device="THM"/>
 </parts>
 <sheets>
